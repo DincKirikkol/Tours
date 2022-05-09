@@ -1,4 +1,4 @@
-In this project, I created a contact application using React. With this application, I practiced the Fetching, async-await features of React.js
+In this project, I created a contact application using React. With this application, I practiced the Fetching, async-await features of React.js<br/>
 
 You can reach my project from the link. <br/>
 
